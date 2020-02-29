@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VolleyParsing</string>
+    <string name="name">Name:</string>
+    <string name="name1">name</string>
+    <string name="description">Description:</string>
+    <string name="description1">description</string>
+    <string name="linkedin_url">Linkedin URL:</string>
+    <string name="linkedin_url1">Linkedin URL</string>
+    <string name="youtube_url">Youtube URL:</string>
+    <string name="youtube_url1">Youtube URL</string>
+</resources>
